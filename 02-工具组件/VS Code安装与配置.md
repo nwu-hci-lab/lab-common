@@ -34,4 +34,4 @@
 
 - 选择性安装**Markdown All in One**，写 Markdown 时的快捷键和自动化工具集
 
-![alt text](image.png)
+![alt text](图片/image-3.png)
