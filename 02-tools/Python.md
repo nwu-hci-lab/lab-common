@@ -1,17 +1,18 @@
 # Python
 > 目前世界最主流的编程语言，使用该语言需要具备 **Python解释器** + **编程IDE**
+>
 > 维护人：童维华｜最后更新：2026 年 10 月 15 日
 ## Python解释器（Python环境）
 1. 官网直接安装Python：https://www.python.org/
    - 建议：一般不推荐
    - Python具有大量的第三方库（例如numpy，pandas，pytorch等等），在编程过程中经常会调用，需要相关的工具管理安装的工具库。经常会根据项目创建相应的Python虚拟环境，在虚拟环境内只需安装项目相关的工具库，因此也需要对虚拟环境进行管理
    - 安装教程：https://blog.csdn.net/sensen_kiss/article/details/141940274
-![alt text](图片/image-10.png)
+![alt text](images/image-10.png)
 2. Anaconda：https://www.anaconda.com/download
    - 建议：功能强大但冗余
    - 便于进行Python环境和工具库管理，同时内嵌PyCharm、jupyterlab、spyder等IDE
    - 介绍、安装、使用教程：https://zhuanlan.zhihu.com/p/32925500
-  ![alt text](图片/image-11.png)
+  ![alt text](images/image-11.png)
 3. miniconda：https://www.anaconda.com/docs/getting-started/concepts/anaconda-or-miniconda
    - 建议：如果使用VS Code作为IDE，推荐使用
    - Anaconda的缩小版，没有图形界面，只有环境和库管理工具
